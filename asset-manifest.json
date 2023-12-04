@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gallery-App-using-PIXABAY-API/static/css/main.01199392.css",
+    "main.js": "/Gallery-App-using-PIXABAY-API/static/js/main.a575b0fc.js",
+    "index.html": "/Gallery-App-using-PIXABAY-API/index.html",
+    "main.01199392.css.map": "/Gallery-App-using-PIXABAY-API/static/css/main.01199392.css.map",
+    "main.a575b0fc.js.map": "/Gallery-App-using-PIXABAY-API/static/js/main.a575b0fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01199392.css",
+    "static/js/main.a575b0fc.js"
+  ]
+}
